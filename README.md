@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:1f2937,100:3b82f6&text=MUH.%20ASRUL&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Statistics%20Graduate%20%C2%B7%20Data%20Analyst&descSize=16&descAlignY=58" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:1f2937,100:3b82f6&text=MUH.%20ASRUL&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Digital Bisnis%20Graduate%20%C2%B7%20Data%20Analyst&descSize=16&descAlignY=58" width="100%" alt="header" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=3B82F6&center=true&vCenter=true&width=560&lines=Hello+World%21+I'm+Asrul;Turning+complex+data+into+clear+insights;Fact-based+analytical+solutions" alt="typing" />
